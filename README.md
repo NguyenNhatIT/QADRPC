@@ -55,15 +55,15 @@ QADRPC Discord Rich Presence Client, customize your "Playing" status, written in
 - Go to [Discord Developer Portal](https://discord.com/developers/applications).
 - Click `New Application` (at top left, before your avatar).
 
-  ![image](https://github.com/nguyennhatit/discord-vugo/assets/80969068/db5ad43f-f64f-43fc-a06e-a1a4f67a2476)
+  ![image](https://github.com/user-attachments/assets/18b07d79-92e1-4961-aad6-25878c47412c)
   
 - Enter a name you want.
 
-  ![image](https://github.com/nguyennhatit/discord-vugo/assets/80969068/8649070e-61f3-4618-93a6-321f08266442)
+  ![image](https://github.com/user-attachments/assets/3aecb90b-c0f5-4909-97d6-8c6afa7e252b)
 
 - You will be redirected to that application, scroll down to `APPLICATION ID`, copy it
 
-  ![image](https://github.com/nguyennhatit/QADRPC/assets/80969068/938e295c-4fbf-4c27-8c79-74bd1a5f27f3)
+  ![image](https://github.com/user-attachments/assets/c28d29cf-de23-41fa-bc96-99f2d82d5818)
 
 - That it!
 
@@ -73,7 +73,7 @@ QADRPC Discord Rich Presence Client, customize your "Playing" status, written in
 - Choose your application (make sure that application is the same with your App ID).
 - At sidebar, choose `Rich Presence` > `Art Assets`
 
-  ![image](https://github.com/nguyennhatit/QADRPC/assets/80969068/645b2167-9d2a-4c3b-b7d1-5cc4b56aa31f)
+  ![image](https://github.com/user-attachments/assets/14bfafff-c597-4f4c-9f6d-6c62b2a29ff4)
 
 - Add a image, then save change. The image key is your name file (without extension) you uploaded. You can rename it if you want :)
 - Copy that name (key) and enjoy!
